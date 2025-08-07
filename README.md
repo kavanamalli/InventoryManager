@@ -43,3 +43,13 @@ A web-based system built to manage and track clinical or hospital equipment effi
 │
 ├── output-screenshot.png
 └── README.md
+
+## 📦 How to Run
+### Backend
+Run the ASP.NET Core project:
+dotnet run
+
+### Frontend
+Open index.html in any modern browser.
+
+[My backend is running on http://localhost:5263]
