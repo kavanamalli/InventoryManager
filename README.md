@@ -24,21 +24,19 @@ A web-based system built to manage and track clinical or hospital equipment effi
 
 ## 📷 Output Screenshot
 
-![Equipment Management UI](Screenshot2.png)
-
-> 🔧 Make sure to rename your output image as `output-screenshot.png` and place it in the same folder as the README file.
+![Equipment Management UI](Screenshot (2).png)
 
 ## 📁 Project Structure
 
 ```bash
 /ClinicalEquipmentManagement/
 │
-├── frontend/
+├── InventoryFrontend/
 │   ├── index.html
 │   ├── styles.css
 │   └── script.js
 │
-├── backend/
+├── InventoryAPI/
 │   ├── Controllers/
 │   ├── Models/
 │   └── Program.cs
