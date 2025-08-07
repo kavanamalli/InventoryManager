@@ -24,7 +24,7 @@ A web-based system built to manage and track clinical or hospital equipment effi
 
 ## 📷 Output Screenshot
 
-![Equipment Management UI](Screenshot (2).png)
+![Equipment Management UI](OUTPUT.png)
 
 ## 📁 Project Structure
 
