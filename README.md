@@ -24,7 +24,7 @@ A web-based system built to manage and track clinical or hospital equipment effi
 
 ## 📷 Output Screenshot
 
-![Equipment Management UI](output-screenshot.png)
+![Equipment Management UI](Screenshot2.png)
 
 > 🔧 Make sure to rename your output image as `output-screenshot.png` and place it in the same folder as the README file.
 
