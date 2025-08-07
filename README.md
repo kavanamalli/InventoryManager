@@ -50,6 +50,8 @@ Run the ASP.NET Core project:
 dotnet run
 
 ### Frontend
-Open index.html in any modern browser.
-
+Open index.html in any browser.
 [My backend is running on http://localhost:5263]
+
+##🎯 Project Objective
+To create an efficient and user-friendly clinical equipment management system that digitizes manual record-keeping using modern web technologies. This tool can be used in clinics, hospitals, or laboratories to keep real-time track of equipment inventory.
